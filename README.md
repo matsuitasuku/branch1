@@ -1,2 +1,2 @@
 # branch1
-## update remote
+## update remotely
